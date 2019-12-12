@@ -1,4 +1,4 @@
-# training
+# elina-training
 
 ## Project setup
 ```
